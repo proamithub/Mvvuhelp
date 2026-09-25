@@ -1,0 +1,13 @@
+D:\MVVU_HELP\MVVU_Data\bin\Release\net10.0\MVVU_Data.deps.json
+D:\MVVU_HELP\MVVU_Data\bin\Release\net10.0\MVVU_Data.dll
+D:\MVVU_HELP\MVVU_Data\bin\Release\net10.0\MVVU_Data.pdb
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.csproj.AssemblyReference.cache
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.AssemblyInfoInputs.cache
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.AssemblyInfo.cs
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.csproj.CoreCompileInputs.cache
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.sourcelink.json
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.dll
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\refint\MVVU_Data.dll
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\MVVU_Data.pdb
+D:\MVVU_HELP\MVVU_Data\obj\Release\net10.0\ref\MVVU_Data.dll

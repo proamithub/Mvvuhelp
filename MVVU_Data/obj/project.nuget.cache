@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H32t3RCk0+s=",
+  "dgSpecHash": "ZVTLsyU/AY8=",
   "success": true,
-  "projectFilePath": "D:\\MVVU_HELP\\MVVU_Data\\MVVU_Data.csproj",
+  "projectFilePath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_Data\\MVVU_Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

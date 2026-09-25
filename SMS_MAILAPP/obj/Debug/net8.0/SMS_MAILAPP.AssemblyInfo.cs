@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMS_MAILAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f982a72b138272150a666be27247aa2821c488f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81d36b694ec2197fb836fbd70c54aedeff53b8fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMS_MAILAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMS_MAILAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

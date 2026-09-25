@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkCcPQXtP7o=",
+  "dgSpecHash": "suzqs7VatEM=",
   "success": true,
-  "projectFilePath": "D:\\MVVU_HELP\\MVVU_HELP_UI\\MVVU_HELP_UI.csproj",
+  "projectFilePath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_HELP_UI\\MVVU_HELP_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

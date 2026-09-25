@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVVU_HELP\\SMS_MAILAPP\\SMS_MAILAPP.csproj": {}
+    "D:\\vrs\\Helpdesk\\Mvvuhelp\\SMS_MAILAPP\\SMS_MAILAPP.csproj": {}
   },
   "projects": {
-    "D:\\MVVU_HELP\\SMS_MAILAPP\\SMS_MAILAPP.csproj": {
+    "D:\\vrs\\Helpdesk\\Mvvuhelp\\SMS_MAILAPP\\SMS_MAILAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVVU_HELP\\SMS_MAILAPP\\SMS_MAILAPP.csproj",
+        "projectUniqueName": "D:\\vrs\\Helpdesk\\Mvvuhelp\\SMS_MAILAPP\\SMS_MAILAPP.csproj",
         "projectName": "SMS_MAILAPP",
-        "projectPath": "D:\\MVVU_HELP\\SMS_MAILAPP\\SMS_MAILAPP.csproj",
+        "projectPath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\SMS_MAILAPP\\SMS_MAILAPP.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\MVVU_HELP\\SMS_MAILAPP\\obj\\",
+        "outputPath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\SMS_MAILAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5108,11 +5108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVVU_HELP\\MVVU_Model\\MVVU_Model.csproj",
+      "projectUniqueName": "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_Model\\MVVU_Model.csproj",
       "projectName": "MVVU_Model",
-      "projectPath": "D:\\MVVU_HELP\\MVVU_Model\\MVVU_Model.csproj",
+      "projectPath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_Model\\MVVU_Model.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\MVVU_HELP\\MVVU_Model\\obj\\",
+      "outputPath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5134,8 +5134,8 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MVVU_HELP\\MVVU_Data\\MVVU_Data.csproj": {
-              "projectPath": "D:\\MVVU_HELP\\MVVU_Data\\MVVU_Data.csproj"
+            "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_Data\\MVVU_Data.csproj": {
+              "projectPath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_Data\\MVVU_Data.csproj"
             }
           }
         }

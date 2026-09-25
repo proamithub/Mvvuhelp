@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E2WTzh1uSlY=",
+  "dgSpecHash": "sch01iZBOIY=",
   "success": true,
-  "projectFilePath": "D:\\MVVU_HELP\\SMS_MAILAPP\\SMS_MAILAPP.csproj",
+  "projectFilePath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\SMS_MAILAPP\\SMS_MAILAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

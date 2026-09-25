@@ -1,28 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MVVU_HELP\\MVVU_HELP_UI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|d:\\mvvu_help\\mvvu_help_ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|d:\\mvvu_help\\mvvu_help_ui\\areas\\admin\\views\\dashboard\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|solutionrelative:areas\\admin\\views\\dashboard\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|d:\\mvvu_help\\mvvu_help_ui\\views\\home\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|solutionrelative:views\\home\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|d:\\mvvu_help\\mvvu_help_ui\\views\\home\\newticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|solutionrelative:views\\home\\newticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|d:\\mvvu_help\\mvvu_help_ui\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56154A56-4956-D307-2E53-B1E109FCD864}|MVVU_HELP_UI.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\vrs\\Helpdesk\\Mvvuhelp\\MVVU_HELP_UI\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,71 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tickets.cshtml",
-              "DocumentMoniker": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Areas\\Admin\\Views\\Dashboard\\Tickets.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Tickets.cshtml",
-              "ToolTip": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Areas\\Admin\\Views\\Dashboard\\Tickets.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Tickets.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-25T08:01:00.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tickets.cshtml",
-              "DocumentMoniker": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Views\\Home\\Tickets.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Tickets.cshtml",
-              "ToolTip": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Views\\Home\\Tickets.cshtml",
-              "RelativeToolTip": "Views\\Home\\Tickets.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-25T08:00:47.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewTicket.cshtml",
-              "DocumentMoniker": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Views\\Home\\NewTicket.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\NewTicket.cshtml",
-              "ToolTip": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Views\\Home\\NewTicket.cshtml",
-              "RelativeToolTip": "Views\\Home\\NewTicket.cshtml",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-25T08:00:31.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAgwO0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T07:48:52.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\MVVU_HELP\\MVVU_HELP_UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAI0BAAAAAAAAAAAEwKMBAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T05:34:32.055Z",
-              "EditorCaption": ""
             }
           ]
         }
